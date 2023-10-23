@@ -12,7 +12,7 @@ http://localhost/Blood_Bank_Management_System-master/admin/login.php
 
 # Screenshots
 
-<h3> User Panel Images </h3>
+User Panel Images
 <br><b>1. Home Page 
    <br>
 ![Homescreen1](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/4d83bbf1-366c-4b0c-9b49-c67dd70c2910)
@@ -49,7 +49,8 @@ http://localhost/Blood_Bank_Management_System-master/admin/login.php
    <br>
    <br><br>
    <br>
-   <h3> Admin Panel Images </h3>
+   
+   Admin Panel Images
    <br>
    <br>1. Admin Login Portal Page
    ![admin login panel](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/c750e82c-529a-409d-938a-bea250ab8d43)
