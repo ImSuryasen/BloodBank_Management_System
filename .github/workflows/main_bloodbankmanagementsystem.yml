@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'BloodBankManagementSystem'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F2C81A53F0C4FE494891E0DE22E87A7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_836FA6E90A904CA1AF04DCE03E82B24A }}
           package: .
