@@ -34,7 +34,7 @@ http://localhost/Blood_Bank_Management_System-master/admin/login.php
 ## Contact Us Page
    ![contact us](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/bb3f4b6c-f932-446b-b612-dd59ebd91bf4)
 
-## Health Bot Page
+## Health Bot Page - Azure Health Bot
    ![Health Bot](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/1230620d-9764-426f-9304-edb403a05e1e)
 
    <br>
