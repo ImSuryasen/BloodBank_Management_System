@@ -44,10 +44,10 @@ http://localhost/Blood_Bank_Management_System-master/admin/login.php
    ![admin login panel](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/c750e82c-529a-409d-938a-bea250ab8d43)
 
 ## Dashboard Page
-   ![admin dashboard](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/0fcacf0b-471f-46c4-a283-a49f38dee206)<br><br>
+![admin dashboard](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/09cc34b4-9658-4342-8043-7058db17c031)
 
 ## Change Password Page
-   <img src="https://user-images.githubusercontent.com/54537819/96366158-75c1c600-1163-11eb-909b-2021d5cd2b06.png">
+   ![Change Password page](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/e85355f6-3a73-46b1-9da9-d174cf24722c)
 
 ## Add Donor Page
    ![add donor](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/eb297010-81bc-4585-96d5-824498b2b718)
