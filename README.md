@@ -3,10 +3,10 @@
 Blood Bank Donation System is a php-based web project with both admin and user layouts.
 
 # Click to open User layout👇🏻
-http://localhost/Blood-Bank-And-Donation-Management-System-master/home.php
+http://localhost/BloodBank_Management_System-master/home.php
      
 # Click to open Admin Panel👇🏻
-http://localhost/Blood-Bank-And-Donation-Management-System-master/admin/login.php
+http://localhost/BloodBank_Management_System-master/admin/login.php
    
    Enter Below Credentials to login to the Admin Panel.<br>
    <b> Username = </b> imsuryasen<br>
