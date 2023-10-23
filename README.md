@@ -11,16 +11,13 @@ http://localhost/Blood_Bank_Management_System-master/admin/login.php
 # If you like my project hit the star 🌟 button
 
 # Screenshots
-
-User Panel Images
-<br><b>1. Home Page 
-   <br>
+# User Panel
+## HomeScreen
 ![Homescreen1](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/4d83bbf1-366c-4b0c-9b49-c67dd70c2910)
 ![Homescreen2](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/1c373222-7f77-4257-98fe-c852f47321e8)
 ![Homescreen3](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/99952699-1706-4c63-a565-e16e96fb3aab)
 ![Homescreen4](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/320e0b5c-e913-4caa-b642-9d2aa8a30866)
-   <br>
-   <br>
+
    2. About Us Page
    ![About](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/7db205c4-f7e3-45a9-94f9-b4ef80c6bd23)
    <br>
