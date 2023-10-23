@@ -8,10 +8,6 @@ http://localhost/Blood_Bank_Management_System-master/home.php
 # Click to open Admin Panel👇🏻
 http://localhost/Blood_Bank_Management_System-master/admin/login.php
    
-   Enter Below Credentials to login to the Admin Panel.<br>
-   <b> Username = </b> imsuryasen<br>
-   <b>Password = </b> suryasen
-   
 # If you like my project hit the star 🌟 button
 
 # Screenshots
