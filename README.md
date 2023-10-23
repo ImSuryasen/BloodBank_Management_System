@@ -8,9 +8,7 @@ http://localhost/Blood_Bank_Management_System-master/home.php
 # Click to open Admin Panel👇🏻
 http://localhost/Blood_Bank_Management_System-master/admin/login.php
    
-# If you like my project hit the star 🌟 button
 <br>
-</br>
 
 # User Panel
 ## HomeScreen
@@ -79,5 +77,8 @@ http://localhost/Blood_Bank_Management_System-master/admin/login.php
    <br>
    9. Update Contact Info Page
    <img src="https://user-images.githubusercontent.com/54537819/96366208-b15c9000-1163-11eb-8163-e2d9f9bc4af5.png">
+
+
+# If you like my project hit the star 🌟 button
    
    
