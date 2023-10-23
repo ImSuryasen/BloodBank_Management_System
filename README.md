@@ -19,8 +19,19 @@ http://localhost/Blood_Bank_Management_System-master/home.php
 http://localhost/Blood_Bank_Management_System-master/admin/login.php
    
 <br>
+# Screenshots
+# Azure Services
+## Azure Health Bot Metrics
 
-# User Panel
+![health bot stats](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/5fafeafb-2d5e-42f4-bc13-6580ccd84164)
+
+## Azure Storage Accounts and Containers
+![storage accounts 1](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/4e4d5348-6067-436d-bbd8-f3b1b8c27a4e)
+![storage accounts 2](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/01ee261f-e7d4-4b7c-bb38-b9d13671f78c)
+![storage accounts 3](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/b4e9f7ab-5449-4037-bb4b-bef5d8319cc3)
+
+
+# 1. User Panel
 ## HomeScreen Page
 ![Homescreen1](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/4d83bbf1-366c-4b0c-9b49-c67dd70c2910)
 ![Homescreen2](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/1c373222-7f77-4257-98fe-c852f47321e8)
@@ -49,7 +60,7 @@ http://localhost/Blood_Bank_Management_System-master/admin/login.php
 
    <br>
    
-# Admin Panel
+# 2. Admin Panel
 ## Admin Login Portal Page
    ![admin login panel](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/c750e82c-529a-409d-938a-bea250ab8d43)
 
