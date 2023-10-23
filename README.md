@@ -19,8 +19,11 @@ http://localhost/Blood_Bank_Management_System-master/home.php
 http://localhost/Blood_Bank_Management_System-master/admin/login.php
    
 <br>
+
 # Screenshots
+
 # Azure Services
+
 ## Azure Health Bot Metrics
 
 ![health bot stats](https://github.com/ImSuryasen/BloodBank_Management_System/assets/100407626/5fafeafb-2d5e-42f4-bc13-6580ccd84164)
